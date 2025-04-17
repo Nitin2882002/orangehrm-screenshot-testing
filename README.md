@@ -1,0 +1,1 @@
+"# OrangeHRM Screenshot Allure Testing" 
