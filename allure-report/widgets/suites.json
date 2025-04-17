@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"e9f9d84bb0d182dfe505ffd444f03204","name":"test_allure_attach","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"ea4ca906d1773f416a2b26a7220d2b79","name":"test_screenshot","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
